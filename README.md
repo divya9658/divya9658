@@ -2,6 +2,7 @@
 I am Divyateja Konathala, currently pursuing Bachelor's degree in Aditya College of Engineering and Technology. I'm a very passionate and curious student who can adapt new technologies much faster. I'm a fast learner with humble nature and a fighter who is trying to survive in this technical field.
 - 🔭 I’m currently working as a FSD React Native intern at TECHNICAL HUB [https://maya.technicalhub.io/] PVT LTD.
 - 🌱 I’m recently worked on a project called "ASTRO-V" which is my first team project in the front end development which is build purely based on HTML and CSS.
+    To see my project --> https://github.com/divya9658/ASTRO-V
 - 🤔 I'm looking for a job in which I can improve my skills and be financially independent.
 - 📫 How to reach me: Let's connect on
     - LinkedIn: https://www.linkedin.com/in/divyateja-konathala-3404b72b6/
