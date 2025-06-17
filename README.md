@@ -6,6 +6,11 @@ I am Divyateja Konathala, currently pursuing Bachelor's degree in Aditya College
 - 🤔 I'm looking for a job in which I can improve my skills and be financially independent.
 - 📫 How to reach me: Let's connect on
     - LinkedIn: https://www.linkedin.com/in/divyateja-konathala-3404b72b6/
+- ⚡Check out my coding profiles here:
+    - Leetcode: https://leetcode.com/u/Divyateja9658/
+    - GeeksForGeeks: https://www.geeksforgeeks.org/user/divyateja9658/
+    - CodeChef: https://www.codechef.com/users/divyateja9658
+    - HackerRank: https://www.hackerrank.com/profile/divyateja9658
 <!--
 **divya9658/divya9658** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
